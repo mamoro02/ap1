@@ -1,0 +1,11 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    font-size: 35px;
+    margin: auto;
+    background-color: lightblue;
+    color: rgb(116, 111, 111);
+    padding: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
